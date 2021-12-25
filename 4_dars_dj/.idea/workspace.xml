@@ -5,25 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2e48447-ba97-4124-9e75-e47da9bcc2f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/.idea/5_dars_dj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/config/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/config/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/config/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/config/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5_dars_dj/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_dars.py" beforeDir="false" afterPath="$PROJECT_DIR$/../10_dars.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/4_dars_dj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/4_dars_dj.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9_dars.py" beforeDir="false" afterPath="$PROJECT_DIR$/../9_dars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,17 +59,21 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="22faZu7WxHZP33ebSyrkXBIRL54" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../5_dars_dj" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -104,10 +114,14 @@
       <option name="presentableId" value="Default" />
       <updated>1640231153970</updated>
       <workItem from="1640231155730" duration="3596000" />
+      <workItem from="1640402787781" duration="1641000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
